@@ -1,5 +1,5 @@
 # histogram-description
-#Defining Histogram
+# Defining Histogram
 **Histograms show the frequency or relative frequency of the distribution of a single variable.**
 1. A histogram is a graph that is used to demonstrate the density of a single variable. 
 2. Higher bars represent where the data is more relatively common.
